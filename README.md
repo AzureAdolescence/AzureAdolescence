@@ -1,6 +1,10 @@
-### Hi there 👋
+### About Me😏
 
-![](https://github-readme-stats.vercel.app/api?username=AzureAdolescence)
+  只是一个普通的高中生啦！
+  
+  爱玩，爱捣鼓，爱科学。
+  
+  <img  src="https://github-readme-stats.vercel.app/api?username=AzureAdolescence" align='right'/>
 
 <!--
 **AzureAdolescence/AzureAdolescence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
