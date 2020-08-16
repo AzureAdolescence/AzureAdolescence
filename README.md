@@ -1,12 +1,12 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=AzureAdolescence" align='right'/>
   <article class="left_article">
-      <h3>About Me😏</h3>
+      <h3>About Him😏</h3>
       <p> 只是一个普通的高中生啦！</p>
       <p>爱玩，爱捣鼓，爱科学。</p>
     </article>
     
-   化学比较好
+   ⚗化学比较好？  ——但也不排除炸实验室的可能😁
     
    
 
