@@ -1,10 +1,14 @@
 
+<img  src="https://github-readme-stats.vercel.app/api?username=AzureAdolescence" align='right'/>
   <article class="left_article">
       <h3>About Me😏</h3>
       <p> 只是一个普通的高中生啦！</p>
       <p>爱玩，爱捣鼓，爱科学。</p>
     </article>
-    <aside class="right_article"><img src="https://github-readme-stats.vercel.app/api?username=AzureAdolescence" alt="" width="400" height="200" class="placeholder"/> </aside>
+    
+   化学比较好
+    
+   
 
 <!--
 **AzureAdolescence/AzureAdolescence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
